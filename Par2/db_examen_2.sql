@@ -1,0 +1,1 @@
+productosSELECT * FROM db_examen_2.marcas;
